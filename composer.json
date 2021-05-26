@@ -1,12 +1,12 @@
 {
-  "name": "webonyx/graphql-php",
+  "name": "jezzis/graphql-php",
   "type": "library",
   "description": "A PHP port of GraphQL reference implementation",
   "keywords": [
     "graphql",
     "API"
   ],
-  "homepage": "https://github.com/webonyx/graphql-php",
+  "homepage": "https://github.com/jezzis/graphql-php",
   "license": "MIT",
   "require": {
     "php": "^7.4 || ^8.0",
